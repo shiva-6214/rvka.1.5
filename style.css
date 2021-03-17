@@ -1,0 +1,85 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#www {
+    width: 45px;
+    height: 45px;
+    margin-top: -10px;
+}
+
+#nvgc {
+    background-color: orange;
+}
+
+#myNavbar #ulbar li a {
+    color: white;
+}
+
+#myNavbar #ulbar li a:hover {
+    color: black;
+}
+
+#mar {
+    background-color: blue;
+    height: 20px;
+    color: white;
+}
+
+#imgvid {
+    width: 100%;
+    height: auto;
+}
+
+#ifr {
+    width: 100%;
+    height: 700px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin-left: 20px;
+}
+
+#achievementsID {
+    padding-top: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
