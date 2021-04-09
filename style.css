@@ -83,3 +83,25 @@ html {
 .movie_text span {
     color: #ff7700;
 }
+
+.envirnoment_li {
+    margin-top: 13px;
+}
+
+.envirnoment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.envirnoment_li img {
+    border-radius: 25px;
+}
+
+.envirnoment_li p {
+    margin-top: 10px;
+}
+
+#ugadi-a {
+    text-decoration: none;
+    color: blue;
+}
