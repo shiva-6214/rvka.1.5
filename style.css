@@ -105,3 +105,16 @@ html {
     text-decoration: none;
     color: blue;
 }
+
+#aluminilist img {
+    height: 200px;
+}
+
+.modal {
+    margin-top: 50px;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
